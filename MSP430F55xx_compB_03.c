@@ -1,7 +1,7 @@
 //******************************************************************************
 // MSP430x552x Demo - COMPB interrupt capability; Vcompare is compared against
 //                    internal 1.5V reference
-//B
+//C
 // Description: Use CompB and internal reference to determine if input'Vcompare'
 //    is high of low.  For the first time, when Vcompare exceeds the 1.5V internal
 //	  reference, CBIFG is set and device enters the CompB ISR. In the ISR CBIES is

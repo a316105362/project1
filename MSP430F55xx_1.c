@@ -1,6 +1,10 @@
 //******************************************************************************
 //   MSP430F552x Demo - Software Toggle P1.0
+<<<<<<< HEAD
 //  this is a test of B3
+=======
+//   this is a test of  B2
+>>>>>>> C4
 //   Description: Toggle P1.0 by xor'ing P1.0 inside of a software loop.
 //   ACLK = 32.768kHz, MCLK = SMCLK = default DCO~1MHz
 //

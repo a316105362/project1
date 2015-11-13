@@ -1,6 +1,6 @@
 // MSP430x552x Demo - COMPB Toggle from LPM4; input channel CB1;
 // 		Vcompare is compared against the internal reference 2.0V
-//B
+//C
 // Description: Use CompB (input channel CB1) and internal reference to
 //	  determine if input'Vcompare'is high of low.  When Vcompare exceeds 2.0V
 //    CBOUT goes high and when Vcompare is less than 2.0V then CBOUT goes low.

@@ -1,7 +1,7 @@
 //******************************************************************************
 // MSP430x552x Demo - COMPB Toggle from LPM4; CompB in ultra low power mode
 // 		Vcompare is compared against the Vcc*1/2
-//B
+//C
 // Description: Use CompB and shared reference to determine if input 'Vcompare'
 //    is high of low.  When Vcompare exceeds Vcc*1/2 CBOUT goes high and when
 //    Vcompare is less than Vcc*1/2 then CBOUT goes low.
